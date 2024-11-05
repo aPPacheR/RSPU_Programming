@@ -1,1 +1,1 @@
-# RSPU_Programming
+# RSPU_Programming (Павленко Павел)
